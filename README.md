@@ -5,7 +5,7 @@
 - Teaching myself VBA and working on several projects using this language ignited a passion for programming in me. Another one of my great passions is mathematics, especially applied mathematics.
 - Programming... plus Mathematics... this added up to a data science pathway...
 - My current focuses are on Python, SQL, and data science concepts.
-- Looking forward to this community!
+- Looking forward to being a part of this community!
 
 <!---
 clickityKlein/clickityKlein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
