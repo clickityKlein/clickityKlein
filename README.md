@@ -1,3 +1,4 @@
+- Mountains, Coding, and Math!
 - Hi, I’m Carl Klein. I'm currently a data analyst in the insurance industry. Originally on the actuarial pathway, I'm interested in a career jump.
 - After obtaining an undergraduate degree in mathematics, passing the "Probability" actuarial exam (Exam P/1), and getting some data analysis experience under my belt, I started looking into automation! 
 - I had some programming training during my college years, so after my getting feet wet in my first job, I started wondering how to complete tasks quicker and with greater accuracy.
