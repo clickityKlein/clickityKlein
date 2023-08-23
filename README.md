@@ -7,13 +7,12 @@ Welcome to my GitHub! My name is Carl Klein. When I'm not in the mountains, I'm 
 
 I'm currently pursuing a master's degree in data science (MSDS) at [CU Boulder](https://www.colorado.edu).
 
-![cu_logo](images/cu_logo.jpeg)
-
 Prior to this, I was working as a Benefits Data Analyst in the insurance industry. Initially, I had actuarial aspirations, 
 inspired by my time at the [University of Washington](http://www.washington.edu/), where I studied mathematics (Bachelor of Arts in Mathematics, minor
 in Applied Mathematics).
 
-![uw_logo](images/uw_logo.jpeg)
+![cu_logo](images/cu_logo.jpeg)   ![uw_logo](images/uw_logo.jpeg)
+
 
 Small scale automation projects during my time as a Benefits Data Analyst helped me start to develop a programming
 repertoire. I kept building the programming toolkit, eventually merging this with my passion for mathematics lead me to the data science pathway.
