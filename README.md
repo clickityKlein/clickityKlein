@@ -14,7 +14,7 @@ in Applied Mathematics).
 ![uw_logo](images/uw_logo.jpeg)
 
 Small scale automation projects during my time as a Benefits Data Analyst helped me start to develop a programming
-repertoire. I kept building on this, and eventually merging this with my passion for mathematics lead me to the data science pathway.
+repertoire. I kept building the programming toolkit, eventually merging this with my passion for mathematics lead me to the data science pathway.
 
 
 ## Table of Contents
