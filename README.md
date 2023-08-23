@@ -21,8 +21,49 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Natural Language Processing with Articles](natural-language-processing-with-articles)
+- [Disaster Response Dashboard](#disaster-response-dashboard)
+- [COVID Analysis](#covid-analysis)
+- [Basic Data Dashboard](#basic-data-dashboard)
+- [Flash Cards](#flashcards)
+- [Emergency Calls](#emergency-calls)
 - [Rudimentary Python Projects](#rudimentary-python-projects)
 - [VBA Projects](#vba-projects)
+
+
+## Natural Language Processing with Articles
+Created an NLP model which attempted to predict the publisher given a news article.
+- [GitHub Repository](https://github.com/clickityKlein/Articles-NLP)
+- [Medium Article](https://medium.com/@carlj.klein/publisher-prediction-natural-language-processing-nlp-with-news-articles-5e5dffe8c316)
+
+
+## Disaster Response Dashboard
+Created a pipeline which classifies messages from various sources during an emergency. 
+Additional step taken in deploying to Flask web application.
+- [GitHub Repository](https://github.com/clickityKlein/Disaster-Response)
+
+
+## COVID Analysis
+Analyze COVID-19 from several sources using R.
+- [GitHub Repository](https://github.com/clickityKlein/COVID-Analysis)
+
+
+## Basic Data Dashboard
+Template and instructions for deploying a dashboard which can be uploaded to a 
+webpage using basic HTML, Flask, Plotly, and Bootstrap.
+- [GitHub Repository](https://github.com/clickityKlein/Data-Dashboard-Template)
+
+
+## Flashcards
+Application which allows users to build and combine decks of virtual flashcards. Supports
+mathematical notation and symbols.
+- [GitHub Repository](https://github.com/clickityKlein/Flashcards)
+
+
+## Emergency Calls
+Analysis of Seattle Police Department call center data.
+- [GitHub Repository](https://github.com/clickityKlein/Blog_Post_Emergency_Calls)
+- [Medium Article](https://medium.com/@carlj.klein/emergency-call-placed-priority-pending-3c59e3c7ba42)
 
 
 ## Rudimentary Python Projects
