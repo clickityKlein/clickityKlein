@@ -21,6 +21,7 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [GitHub Stats](#github-stats)
 - [Natural Language Processing with Articles](natural-language-processing-with-articles)
 - [Disaster Response Dashboard](#disaster-response-dashboard)
 - [COVID Analysis](#covid-analysis)
@@ -29,6 +30,11 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 - [Emergency Calls](#emergency-calls)
 - [Rudimentary Python Projects](#rudimentary-python-projects)
 - [VBA Projects](#vba-projects)
+
+## GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=clickityKlein&theme=aura&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
+![Carl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clickityKlein&theme=aura&hide_title=true&layout=compact&langs_count=10&hide=html)
+
 
 
 ## Natural Language Processing with Articles
