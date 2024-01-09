@@ -22,8 +22,8 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 ## Table of Contents
 - [Introduction](#introduction)
 - [GitHub Stats](#github-stats)
-- [Bias in Facial Classification ML Models](bias-in-facial-classification-ml-models)
-- [Natural Language Processing with Articles](natural-language-processing-with-articles)
+- [Bias in Facial Classification ML Models](#bias-in-facial-classification-ml-models)
+- [Natural Language Processing with Articles](#natural-language-processing-with-articles)
 - [Disaster Response Dashboard](#disaster-response-dashboard)
 - [COVID Analysis](#covid-analysis)
 - [Basic Data Dashboard](#basic-data-dashboard)
