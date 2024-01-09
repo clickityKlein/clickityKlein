@@ -22,6 +22,7 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 ## Table of Contents
 - [Introduction](#introduction)
 - [GitHub Stats](#github-stats)
+- [Bias in Facial Classification ML Models](bias-in-facial-classification-ml-models)
 - [Natural Language Processing with Articles](natural-language-processing-with-articles)
 - [Disaster Response Dashboard](#disaster-response-dashboard)
 - [COVID Analysis](#covid-analysis)
@@ -35,6 +36,12 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=clickityKlein&theme=aura&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 ![Carl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clickityKlein&theme=aura&hide_title=true&layout=compact&langs_count=10&hide=html)
 
+
+## Bias in Facial Classification ML Models
+An exploratory and statistical analysis on the biases prevalent in facial recognition machine learning models.
+- [GitHub Repository](https://github.com/CUBoulder-DS/5301-5000-Final-Report)
+- [Website](https://cuboulder-ds.github.io/5301-5000-Final-Report/)
+- [YouTube Video](https://www.youtube.com/watch?v=7r1z2yU4LuQ&ab_channel=LeoNgamkam)
 
 
 ## Natural Language Processing with Articles
