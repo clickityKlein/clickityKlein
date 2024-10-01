@@ -43,17 +43,17 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 
 ## Snowbound Analytics
 A project featuring the full data science life cycle utilizing many machine learning algorithms and detailed analysis on the results.
-- [GitHub Repository](#(https://github.com/clickityKlein/snowbound))
-- [Website](#(https://snowbound-0fqq.onrender.com/))
+- [GitHub Repository](https://github.com/clickityKlein/snowbound)
+- [Website](https://snowbound-0fqq.onrender.com/)
 
 ## The Brewery Project
 A project featuring the full data science life cycle resulting in helping many facets of the brewery community make informed decisions.
-- [GitHub Repository](#https://github.com/The-Brewery-Project/The-Brewery-Project)
-- [Website](#https://the-brewery-project.github.io/The-Brewery-Project/)
+- [GitHub Repository](https://github.com/The-Brewery-Project/The-Brewery-Project)
+- [Website](https://the-brewery-project.github.io/The-Brewery-Project/)
 
 ## Baseball Analytics
 A statistical analysis with inspirations from Sabermetrics. Proved a key baseball phenomenon, **The Pythagorean Theorem of Baseball**, using simple linear regression on a transformed equation.
-- [GitHub Repository](#https://github.com/clickityKlein/baseball-analytics)
+- [GitHub Repository](https://github.com/clickityKlein/baseball-analytics)
 
 ## Bias in Facial Classification ML Models
 An exploratory and statistical analysis on the biases prevalent in facial recognition machine learning models.
