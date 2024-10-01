@@ -3,7 +3,9 @@
 ## Introduction
 Welcome to my GitHub! My name is Carl Klein. When I'm not in the mountains, I'm fine tuning my data science skills.
 
-*Also see me on [LinkedIn](https://www.linkedin.com/in/carl-klein/).*
+*Also see me on*
+- [LinkedIn](https://www.linkedin.com/in/carl-klein/).
+- [My Personal Website](https://clickityklein.github.io/Carl-Klein/)
 
 I'm currently pursuing a master's degree in data science (MSDS) at [CU Boulder](https://www.colorado.edu).
 
