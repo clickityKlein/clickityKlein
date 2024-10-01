@@ -22,6 +22,9 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 ## Table of Contents
 - [Introduction](#introduction)
 - [GitHub Stats](#github-stats)
+- [Snowbound Analytics](#snowbound-analytics)
+- [The Brewery Project](#the-brewery-project)
+- [Baseball Analytics](#baseball-analtyics)
 - [Bias in Facial Classification ML Models](#bias-in-facial-classification-ml-models)
 - [Natural Language Processing with Articles](#natural-language-processing-with-articles)
 - [Disaster Response Dashboard](#disaster-response-dashboard)
@@ -36,6 +39,19 @@ repertoire. I kept building the programming toolkit, eventually merging this wit
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=clickityKlein&theme=aura&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 ![Carl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clickityKlein&theme=aura&hide_title=true&layout=compact&langs_count=10&hide=html)
 
+## Snowbound Analytics
+A project featuring the full data science life cycle utilizing many machine learning algorithms and detailed analysis on the results.
+- [GitHub Repository](#(https://github.com/clickityKlein/snowbound))
+- [Website](#(https://snowbound-0fqq.onrender.com/))
+
+## The Brewery Project
+A project featuring the full data science life cycle resulting in helping many facets of the brewery community make informed decisions.
+- [GitHub Repository](#https://github.com/The-Brewery-Project/The-Brewery-Project)
+- [Website](#https://the-brewery-project.github.io/The-Brewery-Project/)
+
+## Baseball Analytics
+A statistical analysis with inspirations from Sabermetrics. Proved a key baseball phenomenon, **The Pythagorean Theorem of Baseball**, using simple linear regression on a transformed equation.
+- [GitHub Repository](#https://github.com/clickityKlein/baseball-analytics)
 
 ## Bias in Facial Classification ML Models
 An exploratory and statistical analysis on the biases prevalent in facial recognition machine learning models.
